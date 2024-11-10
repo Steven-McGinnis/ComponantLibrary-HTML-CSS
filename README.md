@@ -38,7 +38,6 @@ The library contains the following UI components:
 ## Features
 
 - **Pure HTML and CSS**: No JavaScript required for functionality.
-- **Responsive Design**: All components are designed to work seamlessly across devices of all screen sizes.
 - **Reusable and Modular**: Each component is self-contained and easy to integrate into projects.
 - **Accessible**: Components follow basic accessibility guidelines to ensure usability for everyone.
 
